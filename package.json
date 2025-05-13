@@ -1,0 +1,15 @@
+{
+  "name": "loinc-mongodb",
+  "version": "1.0.0",
+  "description": "Proyecto de LOINC con MongoDB y Express",
+  "main": "loinc_api.js",
+  "scripts": {
+    "start": "node loinc_api.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
